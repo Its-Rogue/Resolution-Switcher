@@ -1,4 +1,4 @@
-~~~~ A simple tool to switch between 14.3:9 and 16:9 using Qres ~~~~~
+# A simple tool to switch between 14.3:9 and 16:9 using Qres
 
 // In all but the Qres.exe file there are things you need to change, or for ease create a folder called Tools in C: with a subfolder called Windows and unzip this here, if not:
 
