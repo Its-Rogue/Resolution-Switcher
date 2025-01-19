@@ -11,7 +11,7 @@
 
 -- For Stretched.bat -- 
 
-- Change "C:\Tools\Windows\ResSwitcher" to where ever you unzip this
+- Change "C:\Tools\Windows\ResSwitcher" to where you want these files to be stored
 - Change the 2560 and 1440 to "qres.exe /x [(YOUR NATIVE MONITOR WIDTH) * (1720/1920)] /y [YOUR NATIVE MONITOR HEIGHT] /r [YOUR MONITORS REFRESH RATE]"
 
 -- For Switcher.py -- 
@@ -19,4 +19,4 @@
 - Change the "os.system("[xyz]")" to the correct locations for the files
 - Change the "width != 2560" to "width != [YOUR NATIVE MONITOR WIDTH]"
 
-Once done, move the Res Switcher shortcut to the desktop and double click to switch
+Once done, create a shortcut from "Switcher.py", rename it to Res Switcher and move it to the desktop
