@@ -1,6 +1,6 @@
 # A simple tool to switch between 14.3:9 and 16:9 using Qres
 
-In all but the Qres.exe file there are things you need to change, or for ease create a folder called Tools in C: with a subfolder called Windows ( C:\Tools\Windows) and unzip this here, if not:
+In all but the Qres.exe file there are things you need to change, or for ease create a folder called Tools in C: with a subfolder called Windows (C:\Tools\Windows) and unzip this here, if not:
 
 - Ensure that you have python installed, I used 3.13.1 and it works, it should be the latest version at time of writing
 - Replace all [abc] with the information stated in the [], and ensure to not leave the [] in
