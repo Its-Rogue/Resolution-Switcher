@@ -20,4 +20,4 @@ In all but the Qres.exe file there are things you need to change, or for ease cr
 - Change the "os.system("[xyz]")" to the correct locations for the files
 - Change the "width != 2560" to "width != [YOUR NATIVE MONITOR WIDTH]"
 
-// Once done, move the Res Switcher shortcut to the desktop and double click to switch
+Once done, move the Res Switcher shortcut to the desktop and double click to switch
